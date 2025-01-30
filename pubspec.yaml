@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter  
-  webview_flutter: ^4.2.1
+  webview_flutter: 
   js: ^0.7.0
   sentry_flutter: ^7.13.1
 
